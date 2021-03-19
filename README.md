@@ -1,5 +1,5 @@
 ## Who am I
-Hi, my name is Tchokouaha Tientcheu and I live in Germany. I am a telecom engineer and computer enthusiast since the age of 12.
+Hi, my name is **Tchokouaha Tientcheu** and I live in Germany. I am a telecom engineer and computer enthusiast since the age of 12.
 
 ## My knowledge
 I have very good knowledge of Java, Java EE, Spring Framework, Kafka, Docker, Kubernetes, Openshift, Helm etc.
